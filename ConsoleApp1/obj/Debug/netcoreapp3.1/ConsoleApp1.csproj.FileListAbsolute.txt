@@ -24,3 +24,6 @@ D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netc
 D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\Logger.dll
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\Logger.pdb
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete

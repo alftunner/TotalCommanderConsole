@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Logger, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\Programming\Logger\bin\Debug\netcoreapp3.1\Logger.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
