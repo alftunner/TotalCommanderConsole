@@ -5,17 +5,16 @@ using static System.Console;
 
 namespace ConsoleApp1
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
             TCC.message = Show;
-            string command;
             bool check;
             do
             {
                 Write("Введите одну из команд, которые описаны в документации: ");
-                command = ReadLine();
+                var command = ReadLine();
                 switch (command)
                 {
                     case "CreateCatalog":
@@ -69,34 +68,15 @@ namespace ConsoleApp1
                         break;
                 }
                 WriteLine("Если хотите продолжить введите - Y, если хотите закончить сеанс - N");
-                string flag = ReadLine();
-                if(flag == "Y")
-                {
-                    check = true;
-                }
-                else
-                {
-                    check = false;
-                }
+                var flag = ReadLine();
+                check = flag == "Y";
             } while (check);
             WriteLine("Спасибо, что использовали мой файловый менеджер!");
-            
-
-            
-
-            
-
-            
-
-            
-
-            
-
-            
         }
 
-        static void Show(string msg)
+        private static void Show(string msg)
         {
+            ForegroundColor = ConsoleColor.DarkYellow;
             WriteLine(msg);
         }
     }

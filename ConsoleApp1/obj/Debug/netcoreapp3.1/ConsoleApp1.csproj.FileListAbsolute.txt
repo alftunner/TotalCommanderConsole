@@ -11,3 +11,16 @@ C:\Users\111\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Consol
 C:\Users\111\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\111\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\111\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\AnSt\ДЗ студентов\Новая папка\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

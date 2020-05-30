@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\111\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\AnSt\\ДЗ студентов\\Новая папка\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\111\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\AnSt\\ДЗ студентов\\Новая папка\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\111\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\AnSt\\ДЗ студентов\\Новая папка\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\111\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\111\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\111\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\AnSt\\ДЗ студентов\\Новая папка\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\AnSt\\ДЗ студентов\\Новая папка\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,6 +51,10 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[3.1.2, 3.1.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.2, 3.1.2]"
             }
           ],
           "frameworkReferences": {
@@ -58,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.2.20176.6\\RuntimeIdentifierGraph.json"
         }
       }
     }
