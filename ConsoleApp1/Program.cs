@@ -13,55 +13,44 @@ namespace ConsoleApp1
             bool check;
             do
             {
-                LogToConsole.Info("Введите одну из команд, которые описаны в документации: ");
+                LogToConsole.Info("Введите одну из команд, которые описаны в документации, введите Help для полного списка комманд: ");
                 var command = ReadLine();
-                switch (command)
+                string[] cmd = command.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                string cmd1 = cmd[0], cmd2, cmd3;
+                switch (cmd1)
                 {
                     case "CreateCatalog":
-                        LogToConsole.Info("Введите полный путь, по которому вы хотите создать каталог: ");
-                        var dir = ReadLine();
-                        TCC.CreateDirectory(dir);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        TCC.CreateDirectory(cmd2);
                         break;
                     case "CreateFile":
-                        LogToConsole.Info("Введите полное имя файла, который хотите создать: ");
-                        var file = ReadLine();
-                        TCC.CreateFile(file);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        TCC.CreateFile(cmd2);
                         break;
                     case "ShowDirectory":
-                        LogToConsole.Info("Введите путь до директории, содержимое которой хотите увидеть: ");
-                        var path = ReadLine();
-                        TCC.ShowCatalog(path);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        TCC.ShowCatalog(cmd2);
                         break;
                     case "DeleteFile":
-                        LogToConsole.Info("Введите полное имя файла, который вы хотите удалить: ");
-                        var delFile = ReadLine();
-                        TCC.DeleteFile(delFile);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        TCC.DeleteFile(cmd2);
                         break;
                     case "DeleteDirectory":
-                        LogToConsole.Info("Введите полное имя каталога, который вы хотите удалить: ");
-                        var delDir = ReadLine();
-                        TCC.DeleteDirectory(delDir);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        TCC.DeleteDirectory(cmd2);
                         break;
                     case "CopyFile":
-                        LogToConsole.Info("Введите полное имя файла, который вы хотите скопировать: ");
-                        var fileCopy = ReadLine();
-                        LogToConsole.Info("Введите полный путь, куда вы хотите скопировать выбранный фаил: ");
-                        var fileCopyWay = ReadLine();
-                        TCC.CopyFile(fileCopy, fileCopyWay);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        cmd3 = cmd[2];
+                        TCC.CopyFile(cmd2, cmd3);
                         break;
                     case "CopyDirectory":
-                        LogToConsole.Info("Введите полное имя каталога, который вы хотите скопировать: ");
-                        var dirCopy = ReadLine();
-                        LogToConsole.Info("Введите полный путь, куда вы хотите скопировать выбранный каталог: ");
-                        var dirCopyWay = ReadLine();
-                        TCC.CopyDir(dirCopy, dirCopyWay);
-                        ReadKey();
+                        cmd2 = cmd[1];
+                        cmd3 = cmd[2];
+                        TCC.CopyDir(cmd2, cmd3);
+                        break;
+                    case "Help":
+                        TCC.Help();
                         break;
                     default:
                         LogToConsole.Error("Прошу вас быть внимательнее, и правильно вводить команды");
