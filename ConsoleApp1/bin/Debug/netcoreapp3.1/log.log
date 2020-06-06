@@ -38,3 +38,47 @@
 [03.06.2020 21:16:04] INFO : Files with restricted access:
 [03.06.2020 21:16:04] INFO : Files with restricted access:
 [03.06.2020 21:16:04] INFO : Files with restricted access:
+[06.06.2020 11:30:04] INFO : CreateCatalog - создаётся дирректория по указанному пути
+[06.06.2020 11:30:04] INFO : CreateFile - создаётся фаил по указанному пути
+[06.06.2020 11:30:04] INFO : ShowDirectory - показывается содержимое дирректории по указанному пути
+[06.06.2020 11:30:04] INFO : DeleteFile - удаляется фаил по указанному пути
+[06.06.2020 11:30:04] INFO : DeleteDirectory - удаляется дирректория по указанному пути
+[06.06.2020 11:30:04] INFO : CopyFile - копируется фаил
+[06.06.2020 11:30:04] INFO : CopyDirectory - купируется дирректория
+[06.06.2020 11:30:58] INFO : D:\vova\aaa.txt
+[06.06.2020 11:30:58] INFO : D:\vova\aaa.txt
+[06.06.2020 11:30:58] INFO : D:\vova\aaa.txt
+[06.06.2020 11:30:58] INFO : Files with restricted access:
+[06.06.2020 11:30:58] INFO : Files with restricted access:
+[06.06.2020 11:30:58] INFO : Files with restricted access:
+[06.06.2020 11:38:56] INFO : CreateCatalog - создаётся дирректория по указанному пути
+[06.06.2020 11:38:56] INFO : CreateFile - создаётся фаил по указанному пути
+[06.06.2020 11:38:56] INFO : ShowDirectory - показывается содержимое дирректории по указанному пути
+[06.06.2020 11:38:56] INFO : DeleteFile - удаляется фаил по указанному пути
+[06.06.2020 11:38:56] INFO : DeleteDirectory - удаляется дирректория по указанному пути
+[06.06.2020 11:38:56] INFO : CopyFile - копируется фаил
+[06.06.2020 11:38:56] INFO : CopyDirectory - купируется дирректория
+[06.06.2020 11:39:34] INFO : D:\vova\aaa.txt
+[06.06.2020 11:39:34] INFO : D:\vova\aaa.txt
+[06.06.2020 11:39:34] INFO : D:\vova\aaa.txt
+[06.06.2020 11:39:34] INFO : Files with restricted access:
+[06.06.2020 11:39:34] INFO : Files with restricted access:
+[06.06.2020 11:39:34] INFO : Files with restricted access:
+[06.06.2020 11:44:36] INFO : D:\vova\aaa.txt
+[06.06.2020 11:44:36] INFO : D:\vova\aaa.txt
+[06.06.2020 11:44:36] INFO : Files with restricted access:
+[06.06.2020 11:44:36] INFO : Files with restricted access:
+[06.06.2020 11:45:04] INFO : D:\vova\aaa.txt
+[06.06.2020 11:45:04] INFO : D:\vova\aaa.txt
+[06.06.2020 11:45:04] INFO : D:\vova\aaa.txt
+[06.06.2020 11:45:04] INFO : D:\vova\aaa.txt
+[06.06.2020 11:45:04] INFO : Files with restricted access:
+[06.06.2020 11:45:05] INFO : Files with restricted access:
+[06.06.2020 11:45:05] INFO : Files with restricted access:
+[06.06.2020 11:45:05] INFO : Files with restricted access:
+[06.06.2020 11:46:33] INFO : D:\vova\aaa.txt
+[06.06.2020 11:46:33] INFO : D:\vova\aaa.txt
+[06.06.2020 11:46:33] INFO : Files with restricted access:
+[06.06.2020 11:46:33] INFO : Files with restricted access:
+[06.06.2020 11:51:28] INFO : D:\vova\aaa.txt
+[06.06.2020 11:51:28] INFO : Files with restricted access:

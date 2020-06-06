@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             bool check;
+            TCC.Info += LogToConsole.Info;
             do
             {
                 LogToConsole.Info("Введите одну из команд, которые описаны в документации, введите Help для полного списка комманд: ");
